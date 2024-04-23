@@ -1,4 +1,4 @@
-HELLO THIS IS A DATABASE OF PEOPLES SALES😀.  BEFORE MAKING UNDERSTANDING WHY IT IS IMPORTANT I WOULD LIKE TO ADD SOME THINGS ABOUT IT
+HELLO THIS IS A DATABASE OF PRODUCTS SALES😀.  BEFORE MAKING UNDERSTANDING WHY IT IS IMPORTANT I WOULD LIKE TO ADD SOME THINGS ABOUT IT
 
 
 
@@ -13,7 +13,7 @@ HERE FOR DATA ANALYSIS,I'VE GIVEN SOME QUESTION AND ALSO THE ANSWER SO THAT BESI
         NOW I'LL EXPLAIN WHY I MADE IT 😅:
         
       
-MAINLY   his database is designed to provide invaluable insights and analytics to elevate your sales strategies and boost business growth.
+MAINLY   This database is designed to provide invaluable insights and analytics to elevate your sales strategies and boost business growth.
 Features:
 
 Customer Insights: Gain deep understanding into customer behaviors, preferences, and buying patterns.
