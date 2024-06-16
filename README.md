@@ -1,3 +1,13 @@
+![Screenshot (13)](https://github.com/DEF-TRUE/Product_Sales-Analysis-with-Database--SQL/assets/167519991/dbd66f75-68d2-4685-96da-0adef5b90440)
+
+
+
+
+
+
+
+
+
 HELLO THIS IS A DATABASE OF PRODUCTS SALES😀.  BEFORE MAKING UNDERSTANDING WHY IT IS IMPORTANT I WOULD LIKE TO ADD SOME THINGS ABOUT IT
 
 
