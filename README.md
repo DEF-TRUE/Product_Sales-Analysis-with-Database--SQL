@@ -37,7 +37,7 @@ FACEBOOK :https://www.facebook.com/hamimelahi.saad?mibextid=ZbWKwL
 
 Instagram : https://www.facebook.com/hamimelahi.saad?mibextid=ZbWKwL
 
-Linkedin :
+Linkedin : www.linkedin.com/in/hamim-saad-a86094307
 
 
 
